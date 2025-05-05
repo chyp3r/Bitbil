@@ -47,7 +47,18 @@ Uygulamayı çalıştırabilmek için, `.env` dosyasına `API_KEY` değişkenini
 
    ```bash
    API_KEY=your_gemini_api_key
+   ```
 
+### 🔥 Firebase Yapılandırması
+
+Uygulama Firebase hizmetlerini kullandığı için `firebase_options.dart` dosyasının oluşturulmuş olması gerekmektedir.
+
+1. Firebase CLI ve FlutterFire CLI araçlarının kurulu olduğundan emin olun.
+2. Aşağıdaki komutu çalıştırarak kendi `firebase_options.dart` dosyanızı oluşturun:
+
+   ```bash
+   flutterfire configure
+   ```
 
 ## 👨‍🌾 Hedef Kitle
 
