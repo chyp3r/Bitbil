@@ -49,7 +49,7 @@ Uygulamayı çalıştırabilmek için, `.env` dosyasına `API_KEY` değişkenini
    API_KEY=your_gemini_api_key
    ```
 
-### 🔥 Firebase Yapılandırması
+## 🔥 Firebase Yapılandırması
 
 Uygulama Firebase hizmetlerini kullandığı için `firebase_options.dart` dosyasının oluşturulmuş olması gerekmektedir.
 
