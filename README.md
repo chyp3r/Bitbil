@@ -32,8 +32,8 @@ Bitbili, özellikle küçük ve orta ölçekli çiftçilere:
 
 ```bash
 # Flutter ortamını kurduktan sonra:
-git clone https://github.com/chyp3r/bitbili.git
-cd bitbili
+git clone https://github.com/chyp3r/Bitbil.git
+cd Bitbil
 flutter pub get
 flutter run
  ```
