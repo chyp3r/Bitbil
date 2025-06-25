@@ -6,9 +6,9 @@ Bitbili, sürdürülebilir tarımı destekleyen ve çiftçilerin tarımsal karar
 
 Bitbili, özellikle küçük ve orta ölçekli çiftçilere:
 
-- Bitki sağlığı hakkında bilgi sunmayı
-- Tarımsal farkındalık oluşturmayı
-- Üretimde verimliliği ve bilinçli müdahaleyi artırmayı
+- Bitki sağlığı hakkında bilgi sunmayı,
+- Tarımsal farkındalık oluşturmayı,
+- Üretimde verimliliği ve bilinçli müdahaleyi artırmayı,
 - Sürdürülebilir tarım uygulamaları ile çevresel etkileri azaltmayı amaçlar.
 
 
